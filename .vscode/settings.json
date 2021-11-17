@@ -1,0 +1,7 @@
+{
+    "gherkin-autocomplete.featuresPath": "./integration/**",
+    "cucumberautocomplete.steps": [
+        "cypress/support/step_definitions/*.ts",
+    ],
+    "cucumberautocomplete.syncfeatures": "cypress/integration/**/*.feature",
+    } 
