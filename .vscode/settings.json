@@ -4,4 +4,4 @@
         "cypress/support/step_definitions/*.ts",
     ],
     "cucumberautocomplete.syncfeatures": "cypress/integration/**/*.feature",
-    } 
+} 
