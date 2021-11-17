@@ -22,7 +22,7 @@
             "name": "demoqa page is opened",
             "result": {
               "status": "passed",
-              "duration": 1821000000
+              "duration": 1687000000
             }
           }
         ]
